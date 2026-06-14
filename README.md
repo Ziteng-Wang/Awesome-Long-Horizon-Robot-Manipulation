@@ -85,6 +85,32 @@ Long-horizon robot manipulation refers to manipulation tasks where success depen
 - [SkillDiffuser](https://arxiv.org/abs/2312.11598) - skill abstractions in diffusion-based task execution.
 - [RoboFlamingo](https://arxiv.org/abs/2311.01378) - vision-language foundation models as robot imitators.
 - [GR-2](https://arxiv.org/abs/2410.06158) - generative video-language-action model for robot manipulation.
+- [UniPi](https://arxiv.org/abs/2302.00111) - text-guided video generation for universal policy learning.
+- [Video Language Planning](https://arxiv.org/abs/2310.10625) - generating visual plans for language-conditioned robot tasks.
+- [Dreamitate](https://arxiv.org/abs/2406.16862) - real-world visuomotor policy learning via video generation.
+- [RoboDreamer](https://arxiv.org/abs/2404.12377) - compositional world models for robot imagination.
+- [ManipDreamer](https://arxiv.org/abs/2504.16464) - manipulation world modeling with action trees and visual guidance.
+- [DreMa](https://arxiv.org/abs/2412.14957) - compositional world models for robot imitation learning with imagination.
+- [PhysWorld](https://arxiv.org/abs/2511.07416) - robot learning from a physical world model.
+- [DreamGen](https://arxiv.org/abs/2505.12705) - video world models for robot learning generalization.
+- [IRASim](https://arxiv.org/abs/2406.14540) - fine-grained world modeling for robot manipulation.
+- [RoboEnvision](https://arxiv.org/abs/2506.22007) - long-horizon video generation for multi-task robot manipulation.
+- [RoboMaster](https://arxiv.org/abs/2506.01943) - video generation for robotic manipulation with collaborative trajectory control.
+- [Ctrl-World](https://arxiv.org/abs/2510.10125) - controllable generative world model for robot manipulation.
+- [EnerVerse-AC](https://arxiv.org/abs/2505.09723) - action-conditioned embodied environment generation.
+- [Interactive World Simulator](https://arxiv.org/abs/2603.08546) - world simulation for robot policy training and evaluation.
+- [EVA](https://arxiv.org/abs/2603.17808) - aligning video world models with executable robot actions.
+- [Mask2IV](https://arxiv.org/abs/2510.03135) - interaction-centric video generation via mask trajectories.
+- [TesserAct](https://arxiv.org/abs/2504.20995) - learning 4D embodied world models.
+- [RoboVIP](https://arxiv.org/abs/2601.05241) - multi-view video generation with visual identity prompting.
+- [Vid2World](https://arxiv.org/abs/2505.14357) - adapting video diffusion models into interactive world models.
+- [Genie Envisioner](https://arxiv.org/abs/2508.05635) - unified world foundation platform for robotic manipulation.
+- [DreamDojo](https://arxiv.org/abs/2602.06949) - generalist robot world model from large-scale human videos.
+- [WoW](https://arxiv.org/abs/2509.22642) - world-omniscient world modeling through embodied interaction.
+- [DreamZero](https://arxiv.org/abs/2602.15922) - world action models as zero-shot policies.
+- [Cosmos Policy](https://arxiv.org/abs/2601.16163) - fine-tuning video models for visuomotor control and planning.
+- [GigaWorld-0](https://arxiv.org/abs/2511.19861) - world models as a data engine for embodied AI.
+- [ABot-PhysWorld](https://arxiv.org/abs/2603.23376) - physics-aligned interactive world foundation model for robotic manipulation.
 
 ### Memory, Progress, and Recovery
 
@@ -94,7 +120,7 @@ Long-horizon robot manipulation refers to manipulation tasks where success depen
 - [RoboCerebra](https://arxiv.org/abs/2506.06677) - long-horizon robotic manipulation evaluation benchmark.
 - [MemoryVLA](https://arxiv.org/abs/2508.19236) - perceptual-cognitive memory for VLA manipulation.
 - [MemoryVLA++](https://arxiv.org/abs/2606.09827) - memory and imagination for temporal modeling.
-- [ProgVLA](https://arxiv.org/abs/2605.28222) - progress-aware robot manipulation skill learning.
+- [ProgVLA](https://arxiv.org/abs/2605.28231) - progress-aware robot manipulation skill learning.
 - [HELM](https://arxiv.org/abs/2604.18791) - long-horizon memory, verification, and recovery.
 - [LongAct](https://arxiv.org/abs/2605.14504) - benchmark and agent for household task execution.
 
