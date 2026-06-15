@@ -203,7 +203,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for formatting details.
 
 ```bibtex
 @article{wang2026longhorizonmanipulation,
-  title   = {Long-Horizon Robot Manipulation: Architectures, Mechanisms, Benchmarks, and Embodied Reasoning},
+  title   = {Long-Horizon Robot Manipulation: A
+  Comprehensive Survey},
   author  = {Wang, Ziteng},
   year    = {2026},
   note    = {Survey and curated repository}
